@@ -1,0 +1,18 @@
+:root {
+    /* --- fonts --- */
+    --font-dm-sans: "DM Sans", sans-serif;
+    --font-size-base: 14px;
+
+    /* --- colours --- */
+    --cinzao: #121212;
+    --cinzin: #B3B3B3;
+    --friendly-black: #0F0F0F;
+    --friendly-white: #F0F0F0;
+
+    --bg-dark-gray: #242424;
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0, 0, 0, 7);
+
+    /* --- properties ---*/
+    --radius: 8px;
+  }
